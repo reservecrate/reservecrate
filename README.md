@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @reservecrate
-- 👀 I’m interested in ...
+- 👀 I’m interested in programming
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on any cool projects
 - 📫 How to reach me ...
 
 <!---
