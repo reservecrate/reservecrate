@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @reservecrate
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on any cool projects
-- 📫 How to reach me ...
+- 🌱 I’m currently learning React, Node and Ruby
+- 💞️ I’m looking to collaborate on any open-source projects
+- 📫 How to reach me -> reservecrate@gmail.com
 
 <!---
 reservecrate/reservecrate is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
