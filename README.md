@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @reservecrate
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning React, Node and Ruby
-- 💞️ I’m looking to collaborate on any open-source projects
+- 🌱 I’m currently learning web development with JavaScript and Ruby
+- 💞️ I’m looking to collaborate on any web development related open-source projects
 - 📫 How to reach me -> reservecrate@gmail.com
 
 <!---
